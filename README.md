@@ -1,2 +1,2 @@
 # projeto1
-tutorial github
+Um primeiro projeto no git hub utilizando os comandos principais
